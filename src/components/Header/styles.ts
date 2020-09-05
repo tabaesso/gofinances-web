@@ -28,6 +28,7 @@ export const Container = styled.div<ContainerProps>`
         }
 
         &:hover {
+          color: #ff872c;
           opacity: 0.6;
         }
       }
